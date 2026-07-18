@@ -1,0 +1,1 @@
+Upload your favicon.ico and favicon.png to the root of this folder (same as index.html). The site already has <link rel="icon" href="favicon.ico"> tags in every page. After upload, push to GitHub and hard refresh (Ctrl+Shift+R).
